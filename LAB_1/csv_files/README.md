@@ -38,3 +38,17 @@
 
 ![3](https://github.com/vasser2323/Data_Mining/assets/73202398/abd7e82e-5293-4c36-ac7d-b224653a6c43)
 
+
+
+# Псевдокод алгоритма ААА
+
+![4](https://github.com/vasser2323/Data_Mining/assets/73202398/25a23fbb-39a0-46e7-9c87-0e65a353e8ef)
+
+# Список использованных источников:
+
+- https://www.sci-hub.ru/10.1016/j.asoc.2015.03.003 (статья)
+- https://optuna.readthedocs.io/en/stable/ (использование optunа для оптимизхации гиперпараметров)
+
+
+
+
